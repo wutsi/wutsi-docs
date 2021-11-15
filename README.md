@@ -7,7 +7,7 @@
 |[wutsi-wallet](https://github.com/wutsi/wutsi_wallet) |  |  |
 | **Experience Layer** |
 |[Onboard BFF](https://github.com/wutsi/wutsi-onboard-bff)| ![](https://img.shields.io/github/v/tag/wutsi/wutsi-onboard-bff) | |
-|[Login BFF](https://github.com/wutsi/wutsi-login-bff)| ![](https://img.shields.io/github/v/tag/wutsi/wutsi-loin-bff) | |
+|[Login BFF](https://github.com/wutsi/wutsi-login-bff)| ![](https://img.shields.io/github/v/tag/wutsi/wutsi-login-bff) | |
 |[Shell BFF](https://github.com/wutsi/wutsi-shell-bff)| ![](https://img.shields.io/github/v/tag/wutsi/wutsi-shell-bff) | |
 |[Cash BFF](https://github.com/wutsi/wutsi-cash-bff)| ![](https://img.shields.io/github/v/tag/wutsi/wutsi-cash-bff) | |
 | **Domain Layer** |
@@ -17,3 +17,7 @@
 | **Common Services** |
 |[Tenant API](https://github.com/wutsi/wutsi-tenant-server)| ![](https://img.shields.io/github/v/tag/wutsi/wutsi-tenant-sdk-kotlin) | [API](https://wutsi.github.io/wutsi-tenant-server/api/)|
 |[Security API](https://github.com/wutsi/wutsi-security-server)| ![](https://img.shields.io/github/v/tag/wutsi/wutsi-security-sdk-kotlin) | [API](https://wutsi.github.io/wutsi-security-server/api/)|
+| **Core Libraries** |
+|[sdui](https://github.com/wutsi/sdui)| ![](https://img.shields.io/pub/v/sdui.svg) | Flutter Server Driven UI library |
+|[wutsi-platform-payment](https://github.com/wutsi/wutsi-platform-payment)| ![](https://img.shields.io/github/v/tag/wutsi/wutsi-platform-payment) | Payment library for mobile payments (MTN, OM etc.) |
+|[wutsi-platform-core](https://github.com/wutsi/wutsi-platform-code)| ![](https://img.shields.io/github/v/tag/wutsi/wutsi-platform-core) | |
