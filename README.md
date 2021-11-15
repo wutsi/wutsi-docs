@@ -15,8 +15,10 @@
 |[Payment API](https://github.com/wutsi/wutsi-payment-server)| ![](https://img.shields.io/github/v/tag/wutsi/wutsi-payment-sdk-kotlin) | [API](https://wutsi.github.io/wutsi-payment-server/api/) |
 |[SMS API](https://github.com/wutsi/wutsi-sms-server)| ![](https://img.shields.io/github/v/tag/wutsi/wutsi-sms-sdk-kotlin) | [API](https://wutsi.github.io/wutsi-sms-server/api/) |
 | **Common Services** |
-|[Tenant API](https://github.com/wutsi/wutsi-tenant-server)| ![](https://img.shields.io/github/v/tag/wutsi/wutsi-tenant-sdk-kotlin) | [API](https://wutsi.github.io/wutsi-tenant-server/api/)|
-|[Security API](https://github.com/wutsi/wutsi-security-server)| ![](https://img.shields.io/github/v/tag/wutsi/wutsi-security-sdk-kotlin) | [API](https://wutsi.github.io/wutsi-security-server/api/)|
+|[Tenant](https://github.com/wutsi/wutsi-tenant-server)| ![](https://img.shields.io/github/v/tag/wutsi/wutsi-tenant-sdk-kotlin) | [API](https://wutsi.github.io/wutsi-tenant-server/api/) - Supports for multi-tenancy |
+|[Security](https://github.com/wutsi/wutsi-security-server)| ![](https://img.shields.io/github/v/tag/wutsi/wutsi-security-sdk-kotlin) | [API](https://wutsi.github.io/wutsi-security-server/api/) - Manages authentication, authorization |
+| Analytics |  | Collects all the platform signals |
+| Monitoring |  | Monitors the platform |
 | **Core Libraries** |
 |[sdui](https://github.com/wutsi/sdui)| ![](https://img.shields.io/pub/v/sdui.svg) | Flutter Server Driven UI library |
 |[wutsi-platform-payment](https://github.com/wutsi/wutsi-platform-payment)| ![](https://img.shields.io/github/v/tag/wutsi/wutsi-platform-payment) | Payment library for mobile payments (MTN, OM etc.) |
