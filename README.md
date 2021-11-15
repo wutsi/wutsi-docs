@@ -6,10 +6,10 @@
 | **Client Layer** |
 |[wutsi-wallet](https://github.com/wutsi/wutsi_wallet) |  |  |
 | **Experience Layer** |
-|[Onboard BFF](https://github.com/wutsi/wutsi-onboard-bff)|  | |
-|[Login BFF](https://github.com/wutsi/wutsi-login-bff)|  | |
-|[Shell BFF](https://github.com/wutsi/wutsi-shell-bff)|  | |
-|[Cash BFF](https://github.com/wutsi/wutsi-cash-bff)|  | |
+|[Onboard BFF](https://github.com/wutsi/wutsi-onboard-bff)| ![](https://img.shields.io/github/v/tag/wutsi/wutsi-onboard-bff) | |
+|[Login BFF](https://github.com/wutsi/wutsi-login-bff)| ![](https://img.shields.io/github/v/tag/wutsi/wutsi-loin-bff) | |
+|[Shell BFF](https://github.com/wutsi/wutsi-shell-bff)| ![](https://img.shields.io/github/v/tag/wutsi/wutsi-shell-bff) | |
+|[Cash BFF](https://github.com/wutsi/wutsi-cash-bff)| ![](https://img.shields.io/github/v/tag/wutsi/wutsi-cash-bff) | |
 | **Domain Layer** |
 |[Account API](https://github.com/wutsi/wutsi-account-server)| ![](https://img.shields.io/github/v/tag/wutsi/wutsi-account-sdk-kotlin) | [API](https://wutsi.github.io/wutsi-account-server/api/) |
 |[Payment API](https://github.com/wutsi/wutsi-payment-server)| ![](https://img.shields.io/github/v/tag/wutsi/wutsi-payment-sdk-kotlin) | [API](https://wutsi.github.io/wutsi-payment-server/api/) |
