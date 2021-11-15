@@ -23,9 +23,6 @@
 |[wutsi-platform-core](https://github.com/wutsi/wutsi-platform-code)| ![](https://img.shields.io/github/v/tag/wutsi/wutsi-platform-core) | |
 
 ## Important Architectural Patterns
-- Microservices
-    - [An Introduction to Micro Services](https://medium.com/microservicegeeks/an-introduction-to-microservices-a3a7e2297ee0)
-- Backend for Front End (BFF)
-    - [The BFF Pattern (Backend for Frontend): An Introduction](https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf)
-- Server Driven UI (SDUI)
-    - [What is Server Driven UI](https://www.judo.app/blog/server-driven-ui/)
+- [An Introduction to Micro Services](https://medium.com/microservicegeeks/an-introduction-to-microservices-a3a7e2297ee0)
+- [The BFF Pattern (Backend for Frontend): An Introduction](https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf)
+- [What is Server Driven UI](https://www.judo.app/blog/server-driven-ui/)
