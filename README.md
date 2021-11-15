@@ -21,3 +21,11 @@
 |[sdui](https://github.com/wutsi/sdui)| ![](https://img.shields.io/pub/v/sdui.svg) | Flutter Server Driven UI library |
 |[wutsi-platform-payment](https://github.com/wutsi/wutsi-platform-payment)| ![](https://img.shields.io/github/v/tag/wutsi/wutsi-platform-payment) | Payment library for mobile payments (MTN, OM etc.) |
 |[wutsi-platform-core](https://github.com/wutsi/wutsi-platform-code)| ![](https://img.shields.io/github/v/tag/wutsi/wutsi-platform-core) | |
+
+## Important Architectural Patterns
+- Microservices
+    - [An Introduction to Micro Services](https://medium.com/microservicegeeks/an-introduction-to-microservices-a3a7e2297ee0)
+- Backend for Front End (BFF)
+    - [The BFF Pattern (Backend for Frontend): An Introduction](https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf)
+- Server Driven UI (SDUI)
+    - [What is Server Driven UI](https://www.judo.app/blog/server-driven-ui/)
