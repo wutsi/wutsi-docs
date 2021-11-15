@@ -23,6 +23,8 @@
 |[sdui](https://github.com/wutsi/sdui)| ![](https://img.shields.io/pub/v/sdui.svg) | Flutter Server Driven UI library |
 |[wutsi-platform-payment](https://github.com/wutsi/wutsi-platform-payment)| ![](https://img.shields.io/github/v/tag/wutsi/wutsi-platform-payment) | Payment library for mobile payments (MTN, OM etc.) |
 |[wutsi-platform-core](https://github.com/wutsi/wutsi-platform-code)| ![](https://img.shields.io/github/v/tag/wutsi/wutsi-platform-core) | |
+|[wutsi-openapi](https://github.com/wutsi/wutsi-openapi)| | API in OpenAPI schemas |
+|[wutsi-codegen](https://github.com/wutsi/wutsi-codegen)| ![](https://img.shields.io/github/v/tag/wutsi/wutsi-codegen) | OpenAPI to Kotlin code generateor |
 
 ## Important Architectural Patterns
 - [An Introduction to Micro Services](https://medium.com/microservicegeeks/an-introduction-to-microservices-a3a7e2297ee0)
