@@ -30,3 +30,6 @@
 - [An Introduction to Micro Services](https://medium.com/microservicegeeks/an-introduction-to-microservices-a3a7e2297ee0)
 - [The BFF Pattern (Backend for Frontend): An Introduction](https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf)
 - [What is Server Driven UI](https://www.judo.app/blog/server-driven-ui/)
+
+## Contributing
+- [Setup your environment](Setup.md)
