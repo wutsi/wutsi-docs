@@ -22,6 +22,7 @@
 | Monitoring |  | Monitors the platform |
 | **Core Libraries** |
 |[sdui](https://github.com/wutsi/sdui)| ![](https://github.com/wutsi/sdui/actions/workflows/master.yml/badge.svg) | ![](https://img.shields.io/pub/v/sdui.svg) | Flutter Server Driven UI library |
+|[sdui-kotlin](https://github.com/wutsi/sdui-kotlin)| ![](https://github.com/wutsi/sdui-kotlin/actions/workflows/master.yml/badge.svg) | ![](https://img.shields.io/github/v/tag/wutsi/sdui-kotlin.svg) | Flutter Server Driven UI library |
 |[wutsi-platform-payment](https://github.com/wutsi/wutsi-platform-payment)| ![](https://github.com/wutsi/wutsi-platform-payment/actions/workflows/master.yml/badge.svg) | ![](https://img.shields.io/github/v/tag/wutsi/wutsi-platform-payment) | Payment library for mobile payments (MTN, OM etc.) |
 |[wutsi-platform-core](https://github.com/wutsi/wutsi-platform-core)| ![](https://github.com/wutsi/wutsi-platform-core/actions/workflows/master.yml/badge.svg) | ![](https://img.shields.io/github/v/tag/wutsi/wutsi-platform-core) | |
 |[wutsi-openapi](https://github.com/wutsi/wutsi-openapi)| | | API in OpenAPI schemas |
