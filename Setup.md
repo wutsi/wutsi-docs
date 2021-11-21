@@ -34,7 +34,10 @@
 </settings>
 ```
 
-## Database Setup
+## IDE
+- Install IntelliJ
+
+## Database
 - Download and Install [PostgeSQL](https://www.postgresql.org/download/)
 - Create account with username/password: `postgres/postgres`
 
