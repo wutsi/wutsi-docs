@@ -37,3 +37,9 @@
 ## Database Setup
 - Download and Install [PostgeSQL](https://www.postgresql.org/download/)
 - Create account with username/password: `postgres/postgres`
+
+## Swagger-CLI
+- Install `swagger-cli` for generating code from Open-API
+```
+npm install -g @apidevtools/swagger-cli
+```
