@@ -4,7 +4,7 @@
 | Application | Status | Version | Details |
 |-------------|--------|----------|-------------|
 | **Client Layer** |
-|[wutsi-wallet](https://github.com/wutsi/wutsi_wallet) | ![](https://github.com/wutsi/wutsi_wallet/actions/workflows/master.yml/badge.svg) |  | |
+|[wutsi_wallet](https://github.com/wutsi/wutsi_wallet) | ![](https://github.com/wutsi/wutsi_wallet/actions/workflows/master.yml/badge.svg) |  | |
 | **Experience Layer** |
 |[Onboard BFF](https://github.com/wutsi/wutsi-onboard-bff)| ![](https://github.com/wutsi/wutsi-onboard-bff/actions/workflows/master.yml/badge.svg) | ![](https://img.shields.io/github/v/tag/wutsi/wutsi-onboard-bff) | |
 |[Login BFF](https://github.com/wutsi/wutsi-login-bff)| ![](https://github.com/wutsi/wutsi-login-bff/actions/workflows/master.yml/badge.svg) | ![](https://img.shields.io/github/v/tag/wutsi/wutsi-login-bff) | |
@@ -28,6 +28,8 @@
 |[wutsi-platform-core](https://github.com/wutsi/wutsi-platform-core)| ![](https://github.com/wutsi/wutsi-platform-core/actions/workflows/master.yml/badge.svg) | ![](https://img.shields.io/github/v/tag/wutsi/wutsi-platform-core) | |
 |[wutsi-openapi](https://github.com/wutsi/wutsi-openapi)| | | API in OpenAPI schemas |
 |[wutsi-codegen](https://github.com/wutsi/wutsi-codegen)| ![](https://github.com/wutsi/wutsi-codegen/actions/workflows/master.yml/badge.svg) | ![](https://img.shields.io/github/v/tag/wutsi/wutsi-codegen) | OpenAPI to Kotlin code generateor |
+| **Dev Tools** |
+|[wutsi_devtools](https://github.com/wutsi/wutsi_devtools) | ![](https://github.com/wutsi/wutsi_devtools/actions/workflows/master.yml/badge.svg) |  | |
 
 ## Important Architectural Patterns
 - [An Introduction to Micro Services](https://medium.com/microservicegeeks/an-introduction-to-microservices-a3a7e2297ee0)
