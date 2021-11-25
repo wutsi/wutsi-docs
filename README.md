@@ -18,9 +18,9 @@
 | **Common Services** |
 |[Tenant](https://github.com/wutsi/wutsi-tenant-server)| ![](https://github.com/wutsi/wutsi-tenant-server/actions/workflows/master.yml/badge.svg) | ![](https://img.shields.io/github/v/tag/wutsi/wutsi-tenant-sdk-kotlin) | [API](https://wutsi.github.io/wutsi-tenant-server/api/) - Supports for multi-tenancy |
 |[Security](https://github.com/wutsi/wutsi-security-server)| ![](https://github.com/wutsi/wutsi-security-server/actions/workflows/master.yml/badge.svg) | ![](https://img.shields.io/github/v/tag/wutsi/wutsi-security-sdk-kotlin) | [API](https://wutsi.github.io/wutsi-security-server/api/) - Manages authentication, authorization |
-| Analytics |  | Collects all the platform signals |
-| Monitoring |  | Monitors the platform |
-| Message Queue |  | Message Broker for exchanging message asyncronously between the different services |
+| [Analytics](https://console.firebase.google.com) |  | | Collects all the platform signals using [Google Firebase](https://console.firebase.google.com/) (Analytics, Crashlytics) |
+| Monitoring |  | | Monitors the platform |
+| Message Queue |  | | RabbitMQ as message bus |
 | **Core Libraries** |
 |[sdui](https://github.com/wutsi/sdui)| ![](https://github.com/wutsi/sdui/actions/workflows/master.yml/badge.svg) | ![](https://img.shields.io/pub/v/sdui.svg) | Flutter Server Driven UI library |
 |[sdui-kotlin](https://github.com/wutsi/sdui-kotlin)| ![](https://github.com/wutsi/sdui-kotlin/actions/workflows/master.yml/badge.svg) | ![](https://img.shields.io/github/v/tag/wutsi/sdui-kotlin.svg) | Flutter Server Driven UI library |

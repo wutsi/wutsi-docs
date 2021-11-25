@@ -12,6 +12,9 @@
   - GITHUB_TOKEN = `your-token-value`
   - GITHUB_USER = `your-github-user-name`
 
+## Java
+- Install Java 11.
+
 ## Maven
 - Download and Install [Maven](https://maven.apache.org/download.cgi)
 - Edit the file `~/.m2/settings.xml`
