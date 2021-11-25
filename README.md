@@ -38,3 +38,10 @@
 
 ## Contributing
 - [Setup your environment](Setup.md)
+
+## Important Links
+- Test Environment
+  - [Analytics](https://console.firebase.google.com/u/0/project/wutsi-wallet-int/analytics/app/android:com.wutsi/overview/~2F%3Ft%3D1637862176262&fpn%3D4026312901&swu%3D1&sgu%3D1&sus%3Dupgraded&cs%3Dapp.m.dashboard.overview&g%3D1)
+  - [Crashlytics](https://console.firebase.google.com/u/0/project/wutsi-wallet-int/crashlytics/app/android:com.wutsi/issues?state=open&time=last-seven-days&type=all&tag=all)
+
+- Prod Environment
