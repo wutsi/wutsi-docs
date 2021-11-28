@@ -15,10 +15,11 @@
 |[Payment API](https://github.com/wutsi/wutsi-payment-server)| ![](https://github.com/wutsi/wutsi-payment-server/actions/workflows/master.yml/badge.svg) | ![](https://img.shields.io/github/v/tag/wutsi/wutsi-payment-sdk-kotlin) | [API](https://wutsi.github.io/wutsi-payment-server/api/) |
 |[Contact API](https://github.com/wutsi/wutsi-contact-server)| ![](https://github.com/wutsi/wutsi-contact-server/actions/workflows/master.yml/badge.svg) | ![](https://img.shields.io/github/v/tag/wutsi/wutsi-contact-sdk-kotlin) | [API](https://wutsi.github.io/wutsi-contact-server/api/) |
 |[Notification API](https://github.com/wutsi/wutsi-notification-server)| ![](https://github.com/wutsi/wutsi-notification-server/actions/workflows/master.yml/badge.svg) |  | Send notifications to users via SMS/Email or PushNotification |
+|[Heroku Launcher](https://github.com/wutsi/wutsi-heroku-launcher)| ![](https://github.com/wutsi/wutsi-heroku-launcher/actions/workflows/master.yml/badge.svg) |  | Relaunch server shutdown because of their inactivity |
 | **Common Services** |
 |[Tenant](https://github.com/wutsi/wutsi-tenant-server)| ![](https://github.com/wutsi/wutsi-tenant-server/actions/workflows/master.yml/badge.svg) | ![](https://img.shields.io/github/v/tag/wutsi/wutsi-tenant-sdk-kotlin) | [API](https://wutsi.github.io/wutsi-tenant-server/api/) - Supports for multi-tenancy |
 |[Security](https://github.com/wutsi/wutsi-security-server)| ![](https://github.com/wutsi/wutsi-security-server/actions/workflows/master.yml/badge.svg) | ![](https://img.shields.io/github/v/tag/wutsi/wutsi-security-sdk-kotlin) | [API](https://wutsi.github.io/wutsi-security-server/api/) - Manages authentication, authorization |
-|[SMS API](https://github.com/wutsi/wutsi-sms-server)| ![](https://github.com/wutsi/wutsi-sms-server/actions/workflows/master.yml/badge.svg) | ![](https://img.shields.io/github/v/tag/wutsi/wutsi-sms-sdk-kotlin) | [API](https://wutsi.github.io/wutsi-sms-server/api/) |
+|[SMS](https://github.com/wutsi/wutsi-sms-server)| ![](https://github.com/wutsi/wutsi-sms-server/actions/workflows/master.yml/badge.svg) | ![](https://img.shields.io/github/v/tag/wutsi/wutsi-sms-sdk-kotlin) | [API](https://wutsi.github.io/wutsi-sms-server/api/) |
 |[Analytics](https://console.firebase.google.com) |  | | Collects all the platform signals using [Google Firebase](https://console.firebase.google.com/) (Analytics, Crashlytics) |
 | Monitoring |  | | Monitors the platform |
 | Message Queue |  | | RabbitMQ as message bus |
