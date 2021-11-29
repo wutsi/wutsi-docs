@@ -29,8 +29,8 @@
   <servers>
     <server>
       <id>github</id>
-      <username>wutsi</username>
-      <password>${GITHUB_TOKEN}</password>
+      <username>${env.GITHUB_USER}</username>
+      <password>${env.GITHUB_TOKEN}</password>
     </server>
   </servers>
 
