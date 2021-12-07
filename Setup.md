@@ -55,7 +55,11 @@ export GITHUB_TOKEN = <your-token-value>
   <servers>
     <server>
       <id>github</id>
+<<<<<<< HEAD
       <username>${env.GITUB_USER}</username>
+=======
+      <username>${env.GITHUB_USER}</username>
+>>>>>>> 47cc68d13e07576504fe0694ab082ad9bdfaafbe
       <password>${env.GITHUB_TOKEN}</password>
     </server>
   </servers>
