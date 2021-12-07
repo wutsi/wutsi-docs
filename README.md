@@ -38,9 +38,6 @@
 - [The BFF Pattern (Backend for Frontend): An Introduction](https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf)
 - [What is Server Driven UI](https://www.judo.app/blog/server-driven-ui/)
 
-## Contributing
-- [Setup your environment](Setup.md)
-
 ## Important Links
 - Test Environment
   - [Analytics](https://console.firebase.google.com/u/0/project/wutsi-wallet-int/analytics/app/android:com.wutsi/overview/~2F%3Ft%3D1637862176262&fpn%3D4026312901&swu%3D1&sgu%3D1&sus%3Dupgraded&cs%3Dapp.m.dashboard.overview&g%3D1)
