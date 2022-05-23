@@ -1,4 +1,4 @@
-On Wutsi, you can convert your personal profile to a business account to access features that can help you grow your business.
+You can convert your personal profile to a business account to access features that can help you grow your business.
 
 To switch your profile to a business account:
 

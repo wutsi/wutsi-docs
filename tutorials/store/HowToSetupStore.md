@@ -1,3 +1,5 @@
+Enabling your Store helps you to promote and sell your products online.
+
 ### Pre-requisites
 1. Have a business account. Learn [here](../HowToSetupBusinessAccount.md) to setup your business account.
 

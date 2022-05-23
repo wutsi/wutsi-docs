@@ -14,10 +14,9 @@
    3. A short summary description
    4. The price 
    5. The quantity in stock
-7. Tap on the `Submit` button.
-8. The new product is created.
-9. Tap on `Add Picture` to upload the product pictures. You can either:
+7. Tap on the `Submit` button to store the new product
+8. Tap on `Add Picture` to upload the product pictures. You can either:
    1. Select `Camera` to take a picture of your product
    2. or select `Image Gallery` to select a picture from your phone images.
-10. Note that the product is not available yet online for your customers. To make it visible to yous customers, scroll down from your product page and tap on `Published Online`
+9. Note that the product is not available yet online for your customers. To make it visible to yous customers, scroll down from your product page and tap on `Published Online`
 
