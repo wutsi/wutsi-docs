@@ -1,12 +1,12 @@
 ### Pre-requisites
-1. Have a business account. Learn [here](wutsi-docs/tutorials/HowToSetupBusinessAccount.md) to setup your business account.
+1. Have a business account. Learn [here](../HowToSetupBusinessAccount.md) to setup your business account.
 2. Have your Store enabled. Learn [here](HowToSetupStore.md) how to enable your store.
 
 ### Steps
 1. Open the app
-2. Tap on the ![](wutsi-docs/tutorials/images/icon-settings.png) `Settings` icon on the bottom right of the screen
-3. Tap on the option ![](wutsi-docs/tutorials/images/icon-store.png) `Store`. This give you access to the various tools for managing your online store.
-4. Click on the ![](wutsi-docs/tutorials/images/icons-plus.png) icon to add a new product
+2. Tap on the ![](../images/icon-settings.png) `Settings` icon on the bottom right of the screen
+3. Tap on the option ![](../images/icon-store.png) `Store`. This give you access to the various tools for managing your online store.
+4. Click on the ![](../images/icons-plus.png) icon to add a new product
 5. Select the type of product you want to create
 6. Enter your product informations. The following information are required:
    1. The title of the product
