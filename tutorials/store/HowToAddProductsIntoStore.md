@@ -1,6 +1,6 @@
 ### Pre-requisites
 1. Have a business account. Learn [here](../HowToSetupBusinessAccount.md) to setup your business account.
-2. Have your Store enabled. Learn [here](HowToSetupStore.md) how to enable your store.
+2. Enable your Store. Learn [here](HowToSetupStore.md) how to enable your store.
 
 ### Steps
 1. Open the app
