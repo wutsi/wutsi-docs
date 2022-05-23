@@ -1,5 +1,7 @@
+# Tutorials
+
 - [How to setup business account](HowToSetupBusinessAccount.md)
-- [How to integrate your account with WhatsApp]()
-- [How to setup your product catalog]()
-- [How to link your product catalog with Facebook]()
-- [How to link your product catalog with Whatsapp]()
+- [How to setup your Store](wutsi-docs/tutorials/store/HowToSetupStore.md)
+  - [How to add Products into your Store](wutsi-docs/tutorials/store/HowToAddProductsIntoStore.md)
+- [How to link your Store with Facebook]()
+- [How to link your Store with Whatsapp]()
