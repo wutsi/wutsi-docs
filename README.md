@@ -44,7 +44,7 @@
 ## RabbitMQ Dependencies
 This diagram show the dependency between the components in the Messaging Infrastructure (RabbitMQ)
 
-![](https://www.plantuml.com/plantuml/png/dOz13e8m44Ntd88Bz08k3FSmBWeCCB5C9zCfnDjBWYqc8Xgt_V-z-Qs2Mj4ukk8oHmresDv783K1P0AvbkPSFXClBKX-_zudhzXXOnKzfRZOTMrC690PgS_H1-2lAnkaOflRwvbJkNPJK2J53FL27e5Bmv2Ti5ydP4FwaNe1KtVTeZbUmEBRsEYxOG3dVZ9Ovjqf5L0RH_S0)
+![](https://www.plantuml.com/plantuml/png/dP1H3e8m44J_EGKNw0NyCDp3-B6K1HfBjzbk8TxU9jXY8gBnjpDlPhfD4629awqkIvHW56XDqOaAo3FojLRd-gbe4B0qPANAX8VxXBi4SOTSth_x7OdfJUenv4hDRjR6XD5uRznGf0_0NoqR90pwzbfpgbTl5iev5cmJUGGcXt8mcs6TK1BoZuGOLTltAUPuWMVgefRtX16j_Ia1lD-TKZNekZZP1m00)
 
 ## Important Architectural Patterns
 - [An Introduction to Micro Services](https://medium.com/microservicegeeks/an-introduction-to-microservices-a3a7e2297ee0)
